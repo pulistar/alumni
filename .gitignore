@@ -1,0 +1,96 @@
+# Dependencias
+node_modules/
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Archivos de entorno
+.env
+.env.local
+.env.*
+!.env.example
+
+# Archivos de build
+build/
+dist/
+*.exe
+*.apk
+*.aab
+*.app
+*.dmg
+*.msi
+*.deb
+*.rpm
+*.zip
+*.tar.gz
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+flutter_*.log
+dart_*.log
+
+# Archivos temporales
+tmp/
+temp/
+.tmp/
+.temp/
+
+# Archivos de caché
+.cache/
+.dart_tool/
+.flutter_tool/
+.pub/
+build/
+coverage/
+
+# Archivos de configuración local
+*.local
+local.properties
+
+# Archivos de base de datos
+*.sqlite
+*.sqlite3
+*.db
+
+# Archivos de ngrok
+ngrok.yml
+ngrok.log
+
+# Archivos de uploads
+uploads/
+!uploads/.gitkeep
+
+# Archivos de certificados
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.p12
+*.pfx
+
+# Archivos de configuración de Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/ 
